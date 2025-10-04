@@ -1,0 +1,23 @@
+{
+	"background": "#2F2E2D",
+	"black": "#2F2E2D",
+	"blue": "#7FA5BD",
+	"brightBlack": "#4A4845",
+	"brightBlue": "#A1BDCE",
+	"brightCyan": "#B1E7DD",
+	"brightGreen": "#AFBEA2",
+	"brightPurple": "#D7BEDA",
+	"brightRed": "#D78787",
+	"brightWhite": "#EFEFEF",
+	"brightYellow": "#E4C9AF",
+	"cursorColor": "#E4C9AF",
+	"cyan": "#8ADBB4",
+	"foreground": "#EFEFEF",
+	"green": "#90A57D",
+	"name": "Pastel",
+	"purple": "#C79EC4",
+	"red": "#A36666",
+	"selectionBackground": "#4D4D4D",
+	"white": "#D0D0D0",
+	"yellow": "#D7AF87"
+}
