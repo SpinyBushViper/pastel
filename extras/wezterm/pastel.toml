@@ -1,0 +1,83 @@
+[colors]
+ansi = [
+    "#2f2e2d",
+    "#a36666",
+    "#90a57d",
+    "#d7af87",
+    "#7fa5bd",
+    "#c79ec4",
+    "#8adbb4",
+    "#d0d0d0",
+]
+background = "#2f2e2d"
+brights = [
+    "#4a4845",
+    "#d78787",
+    "#afbea2",
+    "#e4c9af",
+    "#a1bdce",
+    "#d7beda",
+    "#b1e7dd",
+    "#efefef",
+]
+cursor_bg = "#e4c9af"
+cursor_border = "#e4c9af"
+cursor_fg = "#2f2e2d"
+foreground = "#efefef"
+scrollbar_thumb = "#4a4845"
+selection_bg = "#4d4d4d"
+selection_fg = "#efefef"
+split = "#8e8e8e"
+compose_cursor = "#d7af87"
+visual_bell = "#4a4845"
+
+[colors.indexed]
+
+[colors.tab_bar]
+background = "#2f2e2d"
+inactive_tab_edge = "#4a4845"
+
+[colors.tab_bar.active_tab]
+bg_color = "#efefef"
+fg_color = "#2f2e2d"
+intensity = "Normal"
+italic = false
+strikethrough = false
+underline = "None"
+
+[colors.tab_bar.inactive_tab]
+bg_color = "#4a4845"
+fg_color = "#8e8e8e"
+intensity = "Normal"
+italic = false
+strikethrough = false
+underline = "None"
+
+[colors.tab_bar.inactive_tab_hover]
+bg_color = "#4d4d4d"
+fg_color = "#d0d0d0"
+intensity = "Normal"
+italic = true
+strikethrough = false
+underline = "None"
+
+[colors.tab_bar.new_tab]
+bg_color = "#8e8e8e"
+fg_color = "#efefef"
+intensity = "Normal"
+italic = false
+strikethrough = false
+underline = "None"
+
+[colors.tab_bar.new_tab_hover]
+bg_color = "#d0d0d0"
+fg_color = "#2f2e2d"
+intensity = "Normal"
+italic = false
+strikethrough = false
+underline = "None"
+
+[metadata]
+name = 'Pastel'
+author = 'Custom Theme'
+origin_url = "https://github.com/ribru17/bamboo.nvim"
